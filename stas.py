@@ -228,7 +228,7 @@ def main(
     
     
     st.markdown("<h1 style='text-align: center; '>Я очень НАДЕЮСЬ, что вы прокникнетесь это песней!.</h1>", unsafe_allow_html = True)
-    st.image('IMG_0142.jpeg, width=400)
+    #st.image('IMG_0142.jpeg, width=400)
    
     
     st_player("https://www.youtube.com/watch?v=d-diB65scQU")
