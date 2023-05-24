@@ -222,7 +222,8 @@ def main(
     
     
     st.sidebar.title('Ловите глубокий смысл этой песни!!!')
-    st.sidebar.image('hi.JPG')
+    st.sidebar.image('IMG_0137.jpeg')
+    st.sidebar.image('IMG_0142.jpeg')
     st.sidebar.info('Наташа Style and  Masha sister')
     
     
