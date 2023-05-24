@@ -241,7 +241,7 @@ def main(
         st.snow()
         time.sleep(2.5)
         st.balloons()
-        st_player("https://soundcloud.com/ahmed-mano-5/eminem_im-not-afraid")
+        st_player("https://soundcloud.com/user-630048232/dance-monkey-2")
         time.sleep(2.5)
         st.balloons()
         time.sleep(2.5)
