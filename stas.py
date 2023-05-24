@@ -227,7 +227,7 @@ def main(
     st.sidebar.info('Наташа Style and  Masha sister')
     
     
-    st.markdown("<h1 style='text-align: center; '>Это твоё простое, но такое гордое веб-приложение :).</h1>", unsafe_allow_html = True)
+    st.markdown("<h1 style='text-align: center; '>Я очень НАДЕЮСЬ, что вы прокникнетесь это песней!.</h1>", unsafe_allow_html = True)
     #st.image('hi.jpg', width=400)
    
     
@@ -235,7 +235,7 @@ def main(
     
 
     
-    if st.button("Нажми кнопку! Там ешё пару сюрпризов."):
+    if st.button("Нажми кнопку! И делай как он:)"):
         
         
       
